@@ -61,4 +61,8 @@
   <img src="https://komarev.com/ghpvc/?username=DartedMonki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-![Snake animation](https://github.com/DartedMonki/DartedMonki/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DartedMonki/DartedMonki/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DartedMonki/DartedMonki/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/DartedMonki/DartedMonki/blob/output/github-contribution-grid-snake.svg" />
+</picture>
