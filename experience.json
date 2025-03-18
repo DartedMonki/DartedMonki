@@ -1,3 +1,0 @@
-{
-    "years": "{{MATH.floor((Date.now() - new Date('2020-11-15').getTime()) / 31557600000)}}"
-}

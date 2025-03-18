@@ -1,7 +1,18 @@
-# Hi there, I'm DartedMonki 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello World! I'm DartedMonki
+
+> Full-stack developer with 4+ years of experience specializing in web and mobile applications.
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniafriyadi)
+[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.dartedmonki.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniafriyadi)
+
+## 👨‍💻 About Me
+- 🏢 Currently working at **Segari** (Series B startup) on warehouse management systems
+- 🔧 Focus on inventory tracking and logistics optimization
+- 🌟 Previously at **ZebraX Technology** where I improved code quality and UI
+- 🔍 Experience with various APIs including Google Maps, Firebase, and payment gateways
+- 💻 Passionate about building scalable applications and solving technical challenges
+- 📱 Cross-platform developer with expertise in both web and mobile development
 
 ## 🛠 Tech Stack
 
@@ -30,6 +41,9 @@
 
 ### DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### Styling & UI Frameworks
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -38,14 +52,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DartedMonki&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+### Game Development
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DartedMonki&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DartedMonki&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
 
 ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DartedMonki&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,13 +67,16 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DartedMonki&theme=radical&no-frame=false&no-bg=true&margin-w=4&count_private=true)
 
-## ✍️ Dev Quote
+## 💭 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="center">
+<div align="center">
+  
+  **Thanks for visiting my profile!** 😊
+  
   <img src="https://komarev.com/ghpvc/?username=DartedMonki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DartedMonki/DartedMonki/blob/output/github-contribution-grid-snake-dark.svg" />
