@@ -40,15 +40,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DartedMonki&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DartedMonki&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DartedMonki&theme=radical&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DartedMonki&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DartedMonki&theme=react-dark&include_all_commits=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DartedMonki&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DartedMonki&theme=radical&no-frame=false&no-bg=true&margin-w=4&count_private=true)
