@@ -7,9 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniafriyadi)
 
 ## 👨‍💻 About Me
-- 🏢 Currently working at **Segari** (Series B startup) on warehouse management systems
-- 🔧 Focus on inventory tracking and logistics optimization
-- 🌟 Previously at **ZebraX Technology** where I improved code quality and UI
+- 🏢 Currently working at **Monee** on ShopeePay team
+- 🌟 Previously at **Segari** (Series B startup) on warehouse management systems and **ZebraX Technology** where I improved code quality and UI
 - 🔍 Experience with various APIs including Google Maps, Firebase, and payment gateways
 - 💻 Passionate about building scalable applications and solving technical challenges
 - 📱 Cross-platform developer with expertise in both web and mobile development
