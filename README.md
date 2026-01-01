@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello World! I'm DartedMonki
 
-> Full-stack developer with 4+ years of experience specializing in web and mobile applications.
+> Full-stack developer with 5+ years of experience specializing in web and mobile applications.
 
 ## 🌐 Connect with Me
 [![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.dartedmonki.com/)
