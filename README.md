@@ -57,14 +57,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DartedMonki&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=DartedMonki&theme=radical&count_private=true" alt="GitHub Streak Stats" />
 </div>
 
 ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DartedMonki&theme=react-dark&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DartedMonki&theme=radical&no-frame=false&no-bg=true&margin-w=4&count_private=true)
 
 ## 💭 Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
